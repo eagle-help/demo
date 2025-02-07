@@ -1,0 +1,14 @@
+{
+    "id": "4cc98f35-6a25-4f22-a436-011867596a03",
+    "version": "1.0.0",
+    "platform": "win",
+    "arch": "all",
+    "name": "myplugin",
+    "logo": "/logo.png",
+    "keywords": [],
+    "devTools": true,
+    "main": {
+        "url": "src/custom.html",
+        "devtools": true
+    }
+}
