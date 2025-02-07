@@ -117,3 +117,4 @@ jobs:
         asset_path: ./${{ env.MANIFEST_NAME }}-debug.eagleplugin
         asset_name: ${{ env.MANIFEST_NAME }}-${{ env.MANIFEST_VERSION }}-debug.eagleplugin
         asset_content_type: application/zip
+
